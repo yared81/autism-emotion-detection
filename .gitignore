@@ -1,0 +1,35 @@
+# Deep Learning Models
+models/*.h5
+models/*.pt
+models/*.pth
+*.h5
+
+# Virtual Environments
+backend/venv/
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Node & Frontend
+frontend/node_modules/
+node_modules/
+frontend/build/
+build/
+dist/
+.npm/
+
+# Generated Output / Analysis Charts
+class_distribution.png
+result/
+results/
+*.png
+
+# IDE / System files
+.vscode/
+.idea/
+.DS_Store
